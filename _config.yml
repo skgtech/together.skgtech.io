@@ -14,7 +14,7 @@ pygments: auto
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : "Thessaloniki Community, Events & Meetups"
+title : "Thessaloniki We Are Together Events"
 tagline: "The insiders SKG scoop"
 author :
   name : "skgtech contributors"
@@ -22,7 +22,7 @@ author :
   github : "skgtech"
   # twitter : username
   # feedburner : feedname
-githubrepo: "https://github.com/skgtech/skgtech.github.io"
+githubrepo: "https://github.com/skgtech/together.skgtech.io"
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
@@ -32,13 +32,13 @@ githubrepo: "https://github.com/skgtech/skgtech.github.io"
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://skgtech.io
+production_url : http://together.skgtech.io
 
 # Open Graph data
 og:
   app_id: "698696243515776"
-  title: "Thessaloniki tech and developer Meetups"
-  site_name: "SKGTech"
+  title: "Thessaloniki We Are Together events"
+  site_name: "We Are Together"
   image: "https://pbs.twimg.com/profile_images/453243331691020288/pk_2bTE9.png"
 
 
@@ -106,8 +106,8 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-41787746-3'
-        domain: 'skgtech.io'
+        tracking_id : 'UA-41787746-5'
+        domain: 'together.skgtech.io'
     # getclicky :
     #   site_id :
     # mixpanel :
